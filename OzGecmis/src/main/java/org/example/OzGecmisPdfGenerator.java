@@ -16,7 +16,7 @@ import java.net.URL;
 public class OzGecmisPdfGenerator {
 
     public static void main(String[] args) {
-        String dest = "Burhan_Kocak_CV.pdf"; // A more professional file name
+        String dest = "Burhan_Kocak_CV.pdf"; 
 
         try {
             PdfWriter writer = new PdfWriter(dest);
