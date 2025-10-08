@@ -43,7 +43,7 @@ Ayrıca iText kütüphanesiyle PDF oluşturma, tablo ve paragraf biçimlendirme 
     </dependency>
 </dependencies>
 
-Özellikler
+## Özellikler
 
 Başlık kısmında isim, unvan ve fotoğraf bulunur.
 
@@ -61,7 +61,7 @@ CV’ye renkli tema veya ikonlar ekleme.
 
 Türkçe ve İngilizce olarak iki dilde PDF üretme.
 
-Geliştirici
+## Geliştirici
 
 Burhan Koçak
 Yazılım Mühendisliği Öğrencisi - Kırklareli Üniversitesi
