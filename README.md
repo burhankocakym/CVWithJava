@@ -56,7 +56,7 @@ Tarih, imza veya QR kod alanı gibi ek bilgiler ekleme.
 ## Geliştirici
 
 Burhan Koçak
-E-posta: kcakburhan@gmail.com
+E-posta: burhankocakym@gmail.com
 
 GitHub: github.com/burhankocak
 
